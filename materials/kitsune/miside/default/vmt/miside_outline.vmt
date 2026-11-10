@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture 				"Kitsune\Shared\tex_outline_purple"
+		
+	$selfill					1
+	$selfillummask				"Kitsune\Shared\tex_outline_purple"				
+}

@@ -1,0 +1,9 @@
+Patch
+{
+	include							"materials\Kitsune\Shared\VMT\Kitsune_shared_base_parameters.vmt"
+	insert
+	{
+		$basetexture 				"Kitsune\Miside\Default\tex_miside_cloth"
+		$lightwarptexture			"Kitsune\Shared\shader_basewarp"
+	}
+}
