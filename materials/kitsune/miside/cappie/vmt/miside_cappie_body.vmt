@@ -1,0 +1,19 @@
+Patch
+{
+	include							"materials\Kitsune\Shared\VMT\Kitsune_shared_base_parameters.vmt"
+	insert
+	{
+		$basetexture 				"Kitsune\Miside\Cappie\tex_miside_cappie_body"
+		$lightwarptexture			"Kitsune\Shared\shader_skinwarp"
+
+		$selfillum 					"0"
+		
+		$nocull						0
+
+		//$detail 					"Kitsune\Cappie\tex_miside_cappie_body"
+		//$detailblendfactor 		".05"
+		//$detailblendmode			"5"
+		//$detailtint 				"[1 1 1]"
+		//$detailscale       		"1"
+	}
+}
