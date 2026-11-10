@@ -1,7 +1,0 @@
-MiSide Cappie for Zoey, originally ported to Left 4 Dead 2 by Kitsune.
-Model and character from MiSide.
-
-Original add-on: https://steamcommunity.com/sharedfiles/filedetails/?id=3392869633
-Shared materials: https://steamcommunity.com/sharedfiles/filedetails/?id=3406597413
-
-Server adaptation: the third-person model uses the separate path models/cappie/zoey.mdl.
